@@ -1,0 +1,4 @@
+// specify the particular Python interpreter to use.
+{
+    "python.pythonPath": "/Users/jerrysong/anaconda3/envs/thu_tiangong"
+}
